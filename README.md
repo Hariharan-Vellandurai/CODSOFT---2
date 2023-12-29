@@ -13,6 +13,7 @@ This is a simple Java program implementing an ATM interface using NetBeans IDE 2
 
 # Usage
 * Clone the repository to your local machine.
+  
         https://github.com/Hariharan-Vellandurai/CODSOFT-2/blob/main/AtmInterface.java
 * Open the project in NetBeans IDE 20.
 * Run the Main class to start the ATM program.
